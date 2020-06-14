@@ -5,8 +5,6 @@
 *.pth
 *.pt
 *.csv
-Transfer Learning for British Sign Language Modelling.pdf
-Real-time American Sign Language Recognition with Convolutional Neural.pdf
 *.mp4
 .ipynb_checkpoints/gesture_detector-checkpoint.ipynb
 .ipynb_checkpoints/Live Gesture Detector-checkpoint.ipynb
@@ -15,5 +13,16 @@ Real-time American Sign Language Recognition with Convolutional Neural.pdf
 .ipynb_checkpoints/Transfer Learning in PyTorch-checkpoint.ipynb
 .ipynb_checkpoints/Untitled-checkpoint.ipynb
 American Sign Language Recognition System.pdf
+Transfer Learning for British Sign Language Modelling.pdf
+Real-time American Sign Language Recognition with Convolutional Neural.pdf
 Sign Language Recognition using Convolutional Neural Networks.pdf
-*.pdf
+A Two-Stream CNN Framework for American Sign Language Recognition Based on Multimodal Data Fusion.pdf
+American Sign Language Recognition Using Machine Learning and Computer Vision.pdf
+American sign language-based finger-spelling recognition using k-Nearest Neighbors classifier.pdf
+Discriminative Exemplar Coding for Sign Language Recognition With Kinect.pdf
+Hand gesture recognition using multimodal data fusion and multiscale parallel convolutional neural network for human–robot interaction.pdf
+Latent support vector machine for sign language recognition with Kinect.pdf
+Real-time American Sign Language recognition from video using hidden Markov models.pdf
+Spelling It Out - Real–Time ASL Fingerspelling Recognition.pdf
+Visual Recognition of American Sign Language Using Hidden Markov Models.pdf
+Visual Recognition of American Sign Language Using Hidden Markov Models.pdf.pdf
