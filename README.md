@@ -1,4 +1,4 @@
-# American-Sign-Language_MNIST
+# Real-time American Sign-Language Recognition via Transfer Learning
  Final project for COGS 225 @ UCSD by Maria F. Harris and Roumen Guha.
  
  For a quick look at our results, watch the [Final Project Demo](https://github.com/roumenguha/American-Sign-Language_MNIST/blob/master/COGS%20225%20Final%20Project%20Demo.mp4).
