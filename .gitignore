@@ -5,7 +5,6 @@
 *.pth
 *.pt
 *.csv
-*.mp4
 .ipynb_checkpoints/gesture_detector-checkpoint.ipynb
 .ipynb_checkpoints/Live Gesture Detector-checkpoint.ipynb
 .ipynb_checkpoints/sign-language-classifier-convnet-with-pytorch-checkpoint.ipynb
